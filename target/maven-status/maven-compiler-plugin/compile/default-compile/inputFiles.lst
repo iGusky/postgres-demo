@@ -1,0 +1,9 @@
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/gusky/Documentos/Proyectos APIS/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
